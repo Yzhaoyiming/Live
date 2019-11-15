@@ -1,0 +1,159 @@
+/* 在CSS文件中引入antd的css文件 */
+@import '~antd/dist/antd.css';
+*{
+    padding: 0;
+    margin: 0;
+}
+ul li{
+    list-style: none;
+    
+}
+a{
+    text-decoration:none;
+    color:rgb(52, 199, 88);
+    
+}
+
+.header{
+    height: 50px;
+    background-color: #444;
+}
+.header header{
+    width: 1200px;
+    line-height: 50px;
+    margin: 0 auto;
+}
+.header header a{
+    margin: 0 20px;
+    color: #fff;
+}
+.header img{
+    width: 120px;
+}
+
+/* content */
+.content{
+    width: 1200px;
+    margin: 30px auto 0;
+}
+.left{
+    width: 900px;
+    float: left;
+}
+.right{
+    width: 270px;
+    float: right;
+    height: 500px;
+    background-color: rgb(199, 221, 241);
+}
+/* 首页主体 */
+.bac{
+    width: 900px;
+    background-color: rgb(240, 234, 234);
+}
+.slider{
+    width: 500px;
+    height: 40px;
+}
+.slider1{
+    width: 80px;
+    height: 40px;
+    float: left;
+    text-align: center;
+    line-height: 40px;
+    color:rgb(52, 199, 88);
+
+}
+.block{
+    width: 900px;
+    height: 45px;
+    background-color: white;
+    overflow: hidden;
+    border-bottom:0.5px solid rgb(175, 171, 171);
+    line-height: 45px;
+
+}
+.image{
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    margin:0px 7px 0px 7px;
+
+
+}
+.spana{
+    width: 50px;
+    height: 30px;
+    line-height: 30px;
+    margin:0px 7px 0px 7px;
+}
+.spanb{
+    width: 50px;
+    height: 30px;
+    line-height: 30px;
+    background-color: rgb(128, 196, 28);
+    margin:0px 4px 0px 4px;
+    border-radius: 15%;
+    color: white;
+}
+
+/* 详情页 */
+.topic_header{
+    background-color: #fff;
+}
+.topic_full_title {
+    font-size: 12px;
+    font-weight: 700;
+    margin: 8px 0;
+    display: inline-block;
+    vertical-align: bottom;
+    width: 100%;
+    padding-bottom: 20px;
+    border-bottom: 0.2px solid black;
+    line-height: 130%;
+}
+.put_good, .put_top {
+    background: #80bd01;
+    padding: 2px 4px;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -o-border-radius: 3px;
+    color: #fff;
+    font-size: 12px;
+}
+
+/* 登录页 */
+.box{
+    width: 900px;
+    height: 200px;
+    padding-top: 50px;
+    text-align: center;
+    background-color: aliceblue;
+    margin: 0 auto;
+
+}
+.btn{
+    width: 70px;
+    height: 20px;
+    background-color: blue;
+    border-radius: 10%;
+    border: 0.3px solid white;
+    color: white;
+    margin: 10px;
+}
+
+/* 下部页数 */
+.little{
+    width: 30px;
+    height: 30px;
+    border: 0.3px solid gray;
+    text-align: center;
+    line-height: 30px;
+    background-color: white;
+    float: left;
+}
+.bab{
+    width: 900px;
+    background-color: white;
+}
