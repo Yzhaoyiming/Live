@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "static/css/main.602087f5.chunk.css",
+    "main.js": "static/js/main.cb40138d.chunk.js",
+    "main.js.map": "static/js/main.cb40138d.chunk.js.map",
+    "runtime-main.js": "static/js/runtime-main.805461b1.js",
+    "runtime-main.js.map": "static/js/runtime-main.805461b1.js.map",
+    "static/css/2.a6e9608c.chunk.css": "static/css/2.a6e9608c.chunk.css",
+    "static/js/2.9632ad93.chunk.js": "static/js/2.9632ad93.chunk.js",
+    "static/js/2.9632ad93.chunk.js.map": "static/js/2.9632ad93.chunk.js.map",
+    "index.html": "index.html",
+    "precache-manifest.63a3c436a4f9b267a9a25fc847640504.js": "precache-manifest.63a3c436a4f9b267a9a25fc847640504.js",
+    "service-worker.js": "service-worker.js",
+    "static/css/2.a6e9608c.chunk.css.map": "static/css/2.a6e9608c.chunk.css.map",
+    "static/css/main.602087f5.chunk.css.map": "static/css/main.602087f5.chunk.css.map",
+    "static/media/banner.jpg": "static/media/banner.71653ff6.jpg",
+    "static/media/block1.jpg": "static/media/block1.e2029f21.jpg",
+    "static/media/block2.jpg": "static/media/block2.ad246400.jpg",
+    "static/media/block3.jpg": "static/media/block3.aba3af15.jpg",
+    "static/media/cup0.jpg": "static/media/cup0.8cf90a34.jpg",
+    "static/media/cup1.jpg": "static/media/cup1.21c09cfd.jpg",
+    "static/media/lunbo1.png": "static/media/lunbo1.d006f41b.png",
+    "static/media/lunbo2.png": "static/media/lunbo2.d28e0ca9.png",
+    "static/media/shop1.jpg": "static/media/shop1.63ae8e62.jpg",
+    "static/media/shop2.jpg": "static/media/shop2.9e7c7358.jpg",
+    "static/media/shop3.jpg": "static/media/shop3.c5ba19e8.jpg",
+    "static/media/shop4.jpg": "static/media/shop4.b3889dde.jpg",
+    "static/media/shop5.jpg": "static/media/shop5.d424e4d6.jpg",
+    "static/media/shop6.jpg": "static/media/shop6.1d87ee7d.jpg",
+    "static/media/tim0g.jpg": "static/media/tim0g.37aed656.jpg",
+    "static/media/title.jpg": "static/media/title.01f18df9.jpg",
+    "static/media/top.jpg": "static/media/top.33e95a12.jpg",
+    "static/media/yinglun.jpg": "static/media/yinglun.d981762c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.805461b1.js",
+    "static/css/2.a6e9608c.chunk.css",
+    "static/js/2.9632ad93.chunk.js",
+    "static/css/main.602087f5.chunk.css",
+    "static/js/main.cb40138d.chunk.js"
+  ]
+}
